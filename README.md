@@ -2,6 +2,8 @@
 
 This project was conducted as part of the CareerFoundry Data Analytics Program. The objective was to explore customer attrition patterns and identify high-risk profiles to support Anti-Money Laundering (AML) efforts and strengthen customer retention strategies for a global financial institution.
 
+View this project in my portfolio presentation: [Google Slides Portfolio](https://docs.google.com/presentation/d/1qkxnA_wyYDSZGrbO7H8aNu45hsYfwUvO/edit?slide=id.p1#slide=id.p1)
+
 ## Project Objective
 
 Pig E. Bank wanted to proactively reduce customer churn and identify patterns that may signal financial risk or fraudulent behavior. This analysis combined exploratory techniques with predictive modeling to generate actionable insights into client behavior, retention, and risk segmentation.
